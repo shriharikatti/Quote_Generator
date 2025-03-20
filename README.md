@@ -13,7 +13,7 @@ A simple web application that fetches and displays a random quote from an API, w
 - **Responsive Design**: Fully functional and visually consistent across mobile and desktop devices.
 
 ## Screenshots
-![Quote Display]([screenshots/quote-display.png](https://github.com/shriharikatti/Quote_Generator/blob/main/quote_img.png))
+![Quote Display](quote_img.png)
 
 
 ## Deployment Link

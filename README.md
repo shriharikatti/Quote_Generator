@@ -17,7 +17,7 @@ A simple web application that fetches and displays a random quote from an API, w
 
 
 ## Deployment Link
-[Live Demo]([https://quote-generator-your-username.vercel.app](https://projects-nine-beta.vercel.app/))
+[Live Demo](https://quote-generator-your-username.vercel.app](https://projects-nine-beta.vercel.app/))
 
 ## Technologies Used
 - HTML
